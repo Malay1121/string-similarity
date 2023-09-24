@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/string_similarity/__init__.py
+src/string_similarity/example.py
+src/string_similarity/string_similarity.py
+src/string_similarity.egg-info/PKG-INFO
+src/string_similarity.egg-info/SOURCES.txt
+src/string_similarity.egg-info/dependency_links.txt
+src/string_similarity.egg-info/top_level.txt
+src/string_similarity/extensions/string_extension.py
+src/string_similarity/models/best_match.py
+src/string_similarity/models/rating.py

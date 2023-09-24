@@ -1,0 +1,19 @@
+[project]
+name = "string_similarity"
+version = "0.0.1"
+url = "https://github.com/Malay1121/string-similarity"
+authors = [
+  { name="Malay Patel", email="malayp.dev@gmail.com" },
+]
+description = "Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance."
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
