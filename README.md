@@ -16,7 +16,7 @@ Finds degree of similarity between two strings, based on [Dice's Coefficient](ht
 
 - [Examples](#examples)
 
-- [StringSimilarity.findBestMatch(string, targetStrings)](#stringsimilarity.findbestmatch(string, targetstrings))
+- [StringSimilarity.findBestMatch(string, targetStrings)](<#stringsimilarity.findbestmatch(string, targetstrings)>)
 
 - [Arguments](#arguments-1)
 
