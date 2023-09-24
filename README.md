@@ -2,13 +2,13 @@
 
 Finds degree of similarity between two strings, based on [Dice's Coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient), which is mostly better than [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
-## :page_facing_up: Table of Contents
+## 📄 Table of Contents
 
-- [Usage](#usage)
+- [Usage](#🎮usage)
 
-- [API](#api)
+- [API](#📚api)
 
-- [StringSimilarity.compareTwoStrings(string, otherString)](#stringsimilarityToother)
+- [StringSimilarity.compareTwoStrings(string, otherString)](<#stringsimilarity.comparetwostrings(string,-otherstring)>)
 
 - [Arguments](#arguments)
 
@@ -16,7 +16,7 @@ Finds degree of similarity between two strings, based on [Dice's Coefficient](ht
 
 - [Examples](#examples)
 
-- [StringSimilarity.findBestMatch(string, targetStrings)](#stringbestMatchtargetStrings)
+- [StringSimilarity.findBestMatch(string, targetStrings)](#stringsimilarity.findbestmatch(string, targetstrings))
 
 - [Arguments](#arguments-1)
 
@@ -24,7 +24,9 @@ Finds degree of similarity between two strings, based on [Dice's Coefficient](ht
 
 - [Examples](#examples-1)
 
-## :video_game: Usage
+- [Developer](#developer)
+
+## 🎮 Usage
 
 In your code:
 
@@ -42,7 +44,7 @@ matches = StringSimilarity.findBestMatch('healed', ['edward', 'sealed', 'theatre
 
 ```
 
-## :books: API
+## 📚 API
 
 ### StringSimilarity.compareTwoStrings(string, otherString)
 
@@ -130,7 +132,7 @@ bestMatchIndex: 1
 
 ```
 
-## :crystal_ball: Credit
+## 🔮 Credit
 
 **_based on 'string-similarity' Javascript project_** : [https://github.com/aceakash/string-similarity](https://github.com/aceakash/string-similarity)
 
